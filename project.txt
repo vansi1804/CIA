@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sửa đổi ở nhánh B1.
+=======
+Thay đổi ở nhánh B2.
+>>>>>>> B2
